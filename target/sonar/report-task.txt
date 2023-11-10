@@ -1,0 +1,6 @@
+projectKey=project-a
+serverUrl=http://3.209.132.235:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://3.209.132.235:9000/dashboard?id=project-a
+ceTaskId=AYurs_BXFKn_5ZV3SoTu
+ceTaskUrl=http://3.209.132.235:9000/api/ce/task?id=AYurs_BXFKn_5ZV3SoTu
